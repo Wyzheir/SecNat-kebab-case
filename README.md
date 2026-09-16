@@ -1,5 +1,5 @@
 
-# SecondNature-Fullstack
+# SecNat-kebab-case
 
 > **基于 Flutter 3.x + FastAPI 异步高并发基座 + DeepSeek 大模型驱动的离线优先、个性化 AI 全栈健康管理生态系统。**
 
